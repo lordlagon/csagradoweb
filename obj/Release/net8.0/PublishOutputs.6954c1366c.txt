@@ -1,0 +1,7 @@
+/Users/andremacedo/RiderProjects/Demos/CsagradoWeb/bin/Release/net8.0/publish/CsagradoWeb
+/Users/andremacedo/RiderProjects/Demos/CsagradoWeb/bin/Release/net8.0/publish/appsettings.Development.json
+/Users/andremacedo/RiderProjects/Demos/CsagradoWeb/bin/Release/net8.0/publish/appsettings.json
+/Users/andremacedo/RiderProjects/Demos/CsagradoWeb/bin/Release/net8.0/publish/CsagradoWeb.dll
+/Users/andremacedo/RiderProjects/Demos/CsagradoWeb/bin/Release/net8.0/publish/CsagradoWeb.deps.json
+/Users/andremacedo/RiderProjects/Demos/CsagradoWeb/bin/Release/net8.0/publish/CsagradoWeb.runtimeconfig.json
+/Users/andremacedo/RiderProjects/Demos/CsagradoWeb/bin/Release/net8.0/publish/CsagradoWeb.pdb
