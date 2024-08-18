@@ -27,3 +27,4 @@
 /Users/andremacedo/RiderProjects/Demos/CsagradoWeb/obj/Release/net8.0/CsagradoWeb.pdb
 /Users/andremacedo/RiderProjects/Demos/CsagradoWeb/obj/Release/net8.0/CsagradoWeb.genruntimeconfig.cache
 /Users/andremacedo/RiderProjects/Demos/CsagradoWeb/obj/Release/net8.0/ref/CsagradoWeb.dll
+/Users/andremacedo/RiderProjects/Demos/CsagradoWeb/obj/Release/net8.0/CsagradoWeb.sourcelink.json
