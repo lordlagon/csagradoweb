@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "zP6VvMGpsUZ94yzvOrNsKNZtrCt7DkBphSkFoKYN7Bc=",
+  "Hash": "p4ccEnmtjhqk9BTjOOXyT/HawM2AHbOG/Fr9zRMLXeU=",
   "Source": "CsagradoWeb",
   "BasePath": "_content/CsagradoWeb",
   "Mode": "Default",
@@ -129,6 +129,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/favicon.png"
+    },
+    {
+      "Identity": "/Users/andremacedo/RiderProjects/Demos/CsagradoWeb/wwwroot/Index.html",
+      "SourceId": "CsagradoWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/andremacedo/RiderProjects/Demos/CsagradoWeb/wwwroot/",
+      "BasePath": "_content/CsagradoWeb",
+      "RelativePath": "Index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Index.html"
     }
   ]
 }

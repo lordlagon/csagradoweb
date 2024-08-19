@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CsagradoWeb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0dbb131538c932d2a4179c9a68c38a51a6bc077a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+397a0eae60d62a16e4022efcb6cfab4437f3eebd")]
 [assembly: System.Reflection.AssemblyProductAttribute("CsagradoWeb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CsagradoWeb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

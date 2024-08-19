@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets/CsagradoWeb.bundle.scp.css"
     },
     {
+      "Id": "/Users/andremacedo/RiderProjects/Demos/CsagradoWeb/wwwroot/Index.html",
+      "PackagePath": "staticwebassets/Index.html"
+    },
+    {
       "Id": "/Users/andremacedo/RiderProjects/Demos/CsagradoWeb/wwwroot/app.css",
       "PackagePath": "staticwebassets/app.css"
     },
