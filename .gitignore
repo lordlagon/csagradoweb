@@ -361,3 +361,12 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+# .idea
+/.idea/.idea.csagradoweb.dir/.idea/encodings.xml
+/.idea/.idea.csagradoweb.dir/.idea/indexLayout.xml
+/.idea/.idea.csagradoweb.dir/.idea/projectSettingsUpdater.xml
+/.idea/.idea.csagradoweb.dir/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/shelved.patch
+/.idea/.idea.csagradoweb.dir/.idea/shelf/Uncommitted_changes_before_rebase__Changes_.xml
+/.idea/.idea.csagradoweb.dir/.idea/vcs.xml
+/.idea/.idea.csagradoweb.dir/.idea/workspace.xml

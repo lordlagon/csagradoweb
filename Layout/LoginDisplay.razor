@@ -1,0 +1,24 @@
+@using Gravatar
+@inject NavigationManager Navigation
+@inject SignOutSessionStateManager SignOutManager
+<AuthorizeView>
+    <Authorized>
+        @{
+            var user = context.User.Identity.Name;
+        }
+        @*<img src="@user.ToGravatar(32)" width="32"/>*@
+        <text>@user</text>
+        <button class="nav-link btn btn-link" @onclick="BeginSignOut">Log Out</button>
+    </Authorized>
+    <NotAuthorized>
+        <a href="authentication/login">Log in</a>
+    </NotAuthorized>
+</AuthorizeView>
+
+@code{
+    private async Task BeginSignOut(MouseEventArgs args)
+    {
+        await SignOutManager.SetSignOutState();
+        Navigation.NavigateTo("authentication/logout");
+    }
+}
