@@ -362,6 +362,7 @@ MigrationBackup/
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
 
+docs/
 # .idea
 /.idea/.idea.csagradoweb.dir/.idea/encodings.xml
 /.idea/.idea.csagradoweb.dir/.idea/indexLayout.xml
