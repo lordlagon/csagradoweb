@@ -1,6 +1,6 @@
 ﻿<Router AppAssembly="@typeof(App).Assembly">
     <Found Context="routeData">
-        <AuthorizeRouteView RouteData="@routeData" DefaultLayout="@typeof(MainLayout)">
+        @*<AuthorizeRouteView RouteData="@routeData" DefaultLayout="@typeof(MainLayout)">
             <NotAuthorized>
                 @if (!context.User.Identity.IsAuthenticated)
                 {
@@ -11,7 +11,7 @@
                     <p role="alert">Sorry, you not authorized 's nothing at this address.</p>
                 }
             </NotAuthorized>
-        </AuthorizeRouteView>
+        </AuthorizeRouteView>*@
         <FocusOnNavigate RouteData="@routeData" Selector="h1"/>
     </Found>
     <NotFound>
